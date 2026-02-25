@@ -1,0 +1,1 @@
+ /Users/ajithmannarakkal/Documents/assignments/stock_esg_tracker/.dart_tool/flutter_build/f14b0c370df09ce0b145ba4e27b987f9/dart_build_result.json: 
