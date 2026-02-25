@@ -17,8 +17,8 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'Stock ESG Tracker',
-      theme: ThemeData.dark(),
-      home: const DashboardScreen(),
+      // theme: ThemeData.dark(),
+      home:  DashboardScreen(),
     );
   }
 }
