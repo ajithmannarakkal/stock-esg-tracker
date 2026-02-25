@@ -104,6 +104,12 @@
       "languageVersion": "3.8"
     },
     {
+      "name": "flutter_riverpod",
+      "rootUri": "file:///Users/ajithmannarakkal/.pub-cache/hosted/pub.dev/flutter_riverpod-3.2.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.7"
+    },
+    {
       "name": "flutter_test",
       "rootUri": "file:///Users/ajithmannarakkal/Documents/tools/flutter/packages/flutter_test",
       "packageUri": "lib/",
