@@ -1,7 +1,9 @@
 import '../entities/stock.dart';
 
 abstract class PortfolioRepository {
-  Future<Stock> getStock(String symbol) ;
-List<Stock> getPortfolio();
-void addStock(Stock stock);
+  Future<Stock> getStock(String symbol);
+  List<Stock> getPortfolio();
+  void addStock(Stock stock);
+  void removeStock(String symbol);
+  Future<List<Map<String, String>>> searchStocks(String query);
 }
